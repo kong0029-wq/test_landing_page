@@ -44,13 +44,13 @@ Smart Planner는 AI 기반 시간 관리 서비스의 랜딩 페이지입니다.
 
 1. 저장소 클론
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-planner-landing.git
+git clone https://github.com/kong0029-wq/test_landing_page.git
 ```
 
 2. 브라우저에서 `index.html` 열기
 
 또는 **GitHub Pages**를 통해 바로 확인:
-👉 https://YOUR_USERNAME.github.io/smart-planner-landing
+👉 👉 https://kong0029-wq.github.io/test_landing_page/
 
 ## 📱 섹션 구성
 
